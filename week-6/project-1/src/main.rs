@@ -44,14 +44,18 @@ fn main() {
     let department:String = department.trim().parse().expect("Invalid department");
 
     // input candidates state of origin
-    println!("\nEnter your State of Orirgin.");
+    println!("\nEnter your State of Origin.");
     let mut state_of_origin = String::new();
     io::stdin().read_line(&mut state_of_origin).expect("Failed to read input.");
     let state_of_origin:String = state_of_origin.trim().parse().expect("Invalid  State of Origin");
 
     if  candidates_status == "class rep" &&  _candidates_level > 100  && cgpa >= 4.0 
 {
-    println!("Candidate Information: {}{}{}{}",name,email_address,department,state_of_origin);
+    println!("Candidate Information: ");
+    println!("{}",name);
+    println!("{}",email_address);
+    println!("{}",department);
+    println!("{}",state_of_origin);
     println!("You can vote");
 }
    else 
