@@ -1,4 +1,4 @@
-// Rust program to determine the annual incentive taking the
+  // Rust program to determine the annual incentive taking the
 // the age and experience of an employee
 
 use std::io;
