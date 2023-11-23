@@ -51,9 +51,9 @@ fn main() {
 
     if  candidates_status == "class rep" &&  _candidates_level > 100  && cgpa >= 4.0 
 {
-    println!("Candidate Information: ");
+    println!("Candidate Information:");
     println!("{}",name);
-    println!("{}",email_address);
+    println!("{}",email_address); 
     println!("{}",department);
     println!("{}",state_of_origin);
     println!("You can vote");
