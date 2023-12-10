@@ -1,0 +1,2 @@
+Welcome Daniel Ibok to week 9!
+We are to learn how to read, open and edit files using the rust programming 

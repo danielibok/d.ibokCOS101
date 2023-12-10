@@ -1,0 +1,20 @@
+Name Of Commissioner 
+ 1. Aigbogun Alamba Daudu 
+ 2. Murtala Afeez Bendu 
+ 3. Okorocha Calistus Ogbona 
+ 4. Adewale Jimoh Akanbi 
+ 5. Osazuwa Faith  Etieye
+
+Ministry 
+ 1. Internal affairs 
+ 2. Justice 
+ 3. Defense 
+ 4. Power and Steel 
+ 5. Petroleum
+
+Geo-political Zone 
+ 1. South West 
+ 2. North East 
+ 3. South South 
+ 4. South West 
+ 5. South East
