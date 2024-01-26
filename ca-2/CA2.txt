@@ -1,0 +1,8 @@
+cadbury_nigeria_plc, 1965, 15000000, 5500000, 63.333332
+champion_breweries_plc, 1974, 25000000, 8000000, 68
+dangote_sugar_refinery_plc, 1970, 18000000, 10000000, 44.444447
+flour_mills_nigeria_plc, 1960, 32000000, 4000000, 87.5
+nestle_nigeria_plc, 1961, 8000000, 1500000, 81.25
+unilever_nigeria_plc, 1923, 37000000, 11000000, 70.27027
+honeywell_nigeria_plc, 1906, 34000000, 9000000, 73.52941
+nigerian_breweries_plc, 1965, 30000000, 12000000, 60.000004
